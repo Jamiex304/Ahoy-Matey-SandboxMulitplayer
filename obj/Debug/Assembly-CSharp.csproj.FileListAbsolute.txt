@@ -36,3 +36,4 @@ H:\Positron Studio\Project Unity Development\Ahoy Matey RTS (Mulitplayer)\Ahoy M
 H:\Positron Studio\Project Unity Development\Ahoy Matey RTS (Mulitplayer)\Ahoy Matey\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
 H:\Positron Studio\Project Unity Development\Ahoy Matey RTS (Mulitplayer)\Ahoy Matey\obj\Debug\Assembly-CSharp.dll
 H:\Positron Studio\Project Unity Development\Ahoy Matey RTS (Mulitplayer)\Ahoy Matey\obj\Debug\Assembly-CSharp.pdb
+H:\Positron Studio\Project Unity Development\Ahoy Matey RTS (Mulitplayer)\Ahoy Matey\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
